@@ -1,0 +1,25 @@
+@import url(reset.css);
+
+body 
+{
+    background-color: lightgrey;
+}
+
+div, p
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.cryptoName
+{
+    font-size: 30;
+    font-weight: bold;
+}
+.price
+{
+    font-size: 30;
+}
+.priceWidth
+{
+    height: 30px;
+}
